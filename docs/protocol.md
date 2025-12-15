@@ -80,7 +80,7 @@ Conclusion / Short limitations, implications for research and practice
 Appendix:
 
 - List of contributors and responsibilities (optional)
-- Timetable (mandatory)
+- Timetable for completing the full review (mandatory)
 - List of tools and purposes (mandatory)
 - Intended registration (optional)
 - Other declarations (optional)

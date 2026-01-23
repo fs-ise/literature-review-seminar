@@ -145,6 +145,7 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - [ ] Prepare [protocol grades](../docs/grading-sheet.md)
 - [ ] Prepare [grading sheets](../docs/presentation_grading.docx)
 - [ ] Prepare cards: **5 min**, **2 min**
+- [ ] Prepare beamer connection (connectors, notify students: HDMI (?))
 - Students should stand up when presenting
 
 General questions for reflection:

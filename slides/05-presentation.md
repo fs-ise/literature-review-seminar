@@ -24,8 +24,6 @@ Universität Bamberg
 2. Questions and discussion (5-10 min)
 3. Feedback
 
-TBD: Schein oder Flexnow?
-
 <!--
 
 # Topics

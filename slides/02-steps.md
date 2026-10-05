@@ -6,19 +6,19 @@ paginate: true
 footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/02-steps.md' target='_blank'>🛠️</a>"
 ---
 
-# The Literature Review Seminar
+# The literature review seminar
 
 ## Steps of the process
 
 - Understand the generic steps of the review process
-- Appreciate the critical methodological choices in the search, screen, and analysis
+- Appreciate the critical methodological choices in the search, screening, and analysis
 
 ---
 
 ## What are the generic steps of a literature review?
 
 <div class="center-vh">
-    <img src="../assets/steps-mindmap.jpg" alt="Steps mindmap" style="max-width: 55%;">
+    <img src="../assets/steps-mindmap.jpg" alt="Steps mindmap" style="max-width: 45%;">
 </div>
 
 <br>
@@ -63,7 +63,7 @@ https://unsplash.com/de/fotos/menschen-die-tagsuber-auf-grunem-rasen-sitzen-7rIm
 
 Summary
 
-- The **nature of steps varies**, including their labels, their characteristics, and how they are arranged
+- The **nature of steps varies**, including their labels, characteristics, and arrangement
 - The steps **depend on the review type**
 - Some steps are more **generic**, while others are more **specific** and only apply to selected types of reviews
 
@@ -83,7 +83,7 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 - Rationale for the review, including an overview of related review papers
 - Gap-spotting or problematization (Alvesson and Sandberg 2011):
 
-    - Gap-spotting is seen as (too) common, and may only signify a contribution if the authors can make a convincing argument that the gap is important
+    - Gap-spotting is seen as (too) common and may only signify a contribution if the authors can make a convincing argument that the gap is important
     - Problematization, as an approach that challenges existing theory and the underlying assumptions, can lead to more interesting and noteworthy contributions
 
 - Research question or objectives
@@ -103,6 +103,8 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
     - Sampling from prior review papers
     - Consulting with peers (e.g., through direct contact or mailing lists)
 
+<!-- TODO: add more details (Gone fishing, the Gusenbauer? detailed search recommendations) -->
+
 ---
 
 ## Literature search: Citation searches
@@ -116,7 +118,7 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 ## Literature search: The database search
 
 - Most common search strategy in the management disciplines (58% according to Hiebl, 2023)
-- Common databases: Web of Science, EBSCO Host, ABI Informs, AIS eLibrary, ACM Digital Library, IEEEXplore, etc. (Knackstedt and Winkelmann 2006, Hiebl 2023)
+- Common databases: Web of Science, EBSCO Host, ABI Inform, AIS eLibrary, ACM Digital Library, IEEEXplore, etc. (Knackstedt and Winkelmann 2006, Hiebl 2023)
 - Effective search strategies for database searches combine search terms with Boolean operators
 
 ![bg right:40% width:500px](../assets/search-query.png)
@@ -127,7 +129,7 @@ In the following, we focus on the steps summarized by Templier and Paré (2018):
 
 ## Literature search: The "building-blocks" approach
 
-- RQ: What factors do influence physicians’ acceptance of telemedicine?
+- RQ: What factors influence physicians’ acceptance of telemedicine?
 
 <div class="center-vh">
     <img src="../assets/building-blocks.png" alt="Building blocks approach" style="max-width: 50%;">
@@ -147,7 +149,7 @@ Building blocks can be based on established frameworks like PICO (population-int
     <img src="../assets/concept-map.png" alt="Concept map" style="max-width: 90%;">
 </div>
 
-- Does the building block approach provide a good fit with your context?
+- Does the building-block approach provide a good fit with your context?
 
 ---
 
@@ -165,11 +167,12 @@ Imagine you serve as a reviewer for a conference. You review a paper on algorith
 
 ![image](../assets/iconmonstr-clipboard-6.svg) **Task**: Evaluate the proposed search strategy critically, taking into account the building-block approach. Make a recommendation to accept, revise, or reject.
 
-
 ![bg right:50% width:500px](../assets/MahmudEtAl2022.png)
 
 > \* Note: Example taken from Mahmud, H., Islam, A. N., Ahmed, S. I., & Smolander, K. (2022). What influences algorithmic decision-making? A systematic literature review on algorithm aversion. *Technological Forecasting and Social Change*, 175, 121390.
 >  ![image width:10px](../assets/iconmonstr-info-12.svg) The [search-query](https://colrev-environment.github.io/search-query/) package supports the validation (linting) of search queries to identify syntactical errors and suggest improvements.
+
+<!-- TODO: literature search reporting : see Haddaway json format (e.g., database/platform, dates) -->
 
 ---
 
@@ -192,7 +195,7 @@ Shortcomings:
 
 - Keyword searches rely on exact matches *
 - Need to be familiar with the vocabulary (check keywords or taxonomies like [MeSH](https://meshb.nlm.nih.gov/?_gl=1*1v2wumx*_ga*MTAzMDkzMDY3OC4xNjg1OTY3ODEy*_ga_7147EPK006*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.*_ga_P1FPTH9PL4*MTY5ODMwNDkxNi4xMC4xLjE2OTgzMDQ5MjIuMC4wLjA.) etc.)
-- Assumption of controlled scientific vocabulary although disciplines like Information Systems have abandoned corresponding efforts decades ago (Weber 2003)
+- Assumption of controlled scientific vocabulary, although disciplines like Information Systems have abandoned corresponding efforts decades ago (Weber 2003)
 - Some literature reviews report the intended coverage (e.g., comprehensive), but none report to which degree it was accomplished (using evidence and metrics)
 
 > \* This is why the health sciences strictly enforce the use of descriptive titles and standard terminology in primary studies.
@@ -218,7 +221,7 @@ Three key metrics are particularly relevant in the context of literature searche
 ## Literature search: Assessing searches
 
 - **Precision** is the only metric that can be measured in a typical literature review
-- A **highly precise search strategy should be suspicious** because the search may not be comprehensive enough
+- A **highly precise search strategy should be viewed with suspicion** because the search may not be comprehensive enough
 - Based on the [SYNERGY](https://github.com/asreview/synergy-dataset) dataset, average precision is 2% - 4% in medicine, chemistry, and computer science
 
 ![image](../assets/iconmonstr-help-6.svg) **Question**: Would you expect more precise searches in disciplines like Information Systems, Management, or the Social Sciences?
@@ -244,7 +247,6 @@ Credibility depends on:
     - **High-paradigm disciplines**: database search may suffice  
     - **Low-paradigm or emergent fields**: require iterative, **citation-based strategies** (e.g., forward/backward search)
 
-
 > “Saturation is a matter of judgment, not of formula.”  
 > — *Boell & Cecez-Kecmanovic (2014)*
 
@@ -269,12 +271,14 @@ https://unsplash.com/de/fotos/toddlers-standing-in-front-of-beige-concrete-stair
 
 ## Screen
 
-- The screen is typically completed in two parts:
+"As the main aim of the retrieval task is to retrieve all relevant literature (perfect recall), the aim of the \[screening\] tasks is to exclude all irrelevant literature inadvertently retrieved with it. When \[screening\] scientific papers' relevance to a systematic review, the vast majority of documents are excluded" (TsafnatGlasziouChoongEtAl2014)
+
+- The screening is typically completed in two parts:
 
     - A pre-screen based on metadata (*"include if in doubt"*)
     - A screen based on full-text documents, resulting in the final sample
 
-- The screen is often based on explicit inclusion and exclusion criteria
+- The screening is often based on explicit inclusion and exclusion criteria
 
 ![bg right:50% width:500px](../assets/study-selection.png)
 
@@ -282,16 +286,15 @@ https://unsplash.com/de/fotos/toddlers-standing-in-front-of-beige-concrete-stair
 
 ## Screening reliability
 
-Screening tasks are often split among the review team to complete the process **more quickly**, and to ensure **reliable decisions**.
+Screening tasks are often split among the review team to complete the process **more quickly** and to ensure **reliable decisions**.
 
 Process:
 
 1. Definition of criteria, training, and pilot test
-2. Parallel-independent screen (partially or fully overlapping sample)
-3. Independent screen of the remaining papers (if any)
+2. Parallel-independent screening (partially or fully overlapping sample)
+3. Independent screening of the remaining papers (if any)
 4. Reconciliation: in case of disagreements, final decisions are made by selected team members (often more senior researchers)
 5. Calculate inter-rater agreement (e.g., Cohen's Kappa) and report the process
-
 
 <!-- 
 https://en.wikipedia.org/wiki/Cohen%27s_kappa
@@ -306,11 +309,11 @@ blockquote {
 }
 </style>
 
-## Interpretation of Kappa Values
+## Interpretation of Kappa values
 
 <br>
 
-| Kappa Value Range | Interpretation           |
+| Kappa value range | Interpretation           |
 |-------------------|--------------------------|
 | ≤ 0               | No agreement             |
 | 0.01 – 0.20       | None to slight           |
@@ -359,8 +362,8 @@ The reading activities can be organized strategically at two levels:
 
 Key differences with regard to data extraction and analysis:
 
-- Focus on metadata vs content 
-- Inductive vs deductive reasoning
+- Focus on metadata vs. content 
+- Inductive vs. deductive reasoning
 
 ![bg right:45% width:500px](../assets/deductive-inductive.png)
 
@@ -441,8 +444,10 @@ Context:
 - Effects between independent and dependent variables are coded:
 
     - *+1* for a positive significant effect
-    - *0* for no-significant effects
+    - *0* for no significant effects
     - *-1* for negative significant effects
+
+<!-- TODO: add an example of a coding table (individual studies, variables and effect coding) -->
 
 ---
 
@@ -478,9 +483,9 @@ Meta-analysis techniques address these shortcomings.
 
 ![bg right:50% width:600px](../assets/risk-of-bias-table.png)
 
-> Note: For non-experimental studies, other domains of bias may apply (such as the use of fixed-effects for years as a control for omitted time-varying confounders/endogeneity).
+> Note: For non-experimental studies, other domains of bias may apply (such as the use of fixed effects for years as a control for omitted time-varying confounders/endogeneity).
 > 
-> Note: It is good practice to analyze whether results differ between high and low quality studies (e.g., through subgroup analyses) instead of excluding low-quality studies.
+> Note: It is good practice to analyze whether results differ between high and low-quality studies (e.g., through subgroup analyses) instead of excluding low-quality studies.
 
 ---
 
@@ -553,12 +558,12 @@ Use **Hedges' g** when sample sizes are small.
 Also calculate **SE** to determine study weights.
 -->
 
-> SMD is also known as *Cohen's d*. For small sample sizes, the corrections of *Hedge's g* should be used.
+> SMD is also known as *Cohen's d*. For small sample sizes, the corrections of *Hedges' g* should be used.
 > Note: For research models, we will typically rely on correlations as effect sizes (beta coefficients depend on the other variables of the model).
 
 ---
 
-# Random Effects Meta-Analysis
+# Random effects meta-analysis
 
 We assume the true effect size varies between studies:
 
@@ -576,7 +581,6 @@ $$
 
 - $\tau^2$: between-study variance
 - $SE_{g_i}$: standard error of each SMD
-
 
 > Interpretation: Larger $w_i$ = more influence on pooled estimate. Output: Overall effect size with 95% CI shown in forest plot.
 > The [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) book by Harrer et al. offers a good overview of meta-analysis methods.
@@ -633,9 +637,9 @@ p {
 
 Okoli, C. (2015). A guide to conducting a standalone systematic literature review. *Communications of the Association for Information Systems*, 37. doi:[10.17705/1CAIS.03743](https://aisel.aisnet.org/cais/vol37/iss1/43/)
 
-Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches. *Communications of the Association for information Systems*, 34, 12. doi:[10.17705/1CAIS.03412](https://aisel.aisnet.org/cais/vol34/iss1/12/)
+Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches. *Communications of the Association for Information Systems*, 34, 12. doi:[10.17705/1CAIS.03412](https://aisel.aisnet.org/cais/vol34/iss1/12/)
 
-Templier, M., & Pare, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. *European Journal of Information Systems*, 27(5), 503-550. doi:[10.1080/0960085X.2017.1398880](https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880)
+Templier, M., & Paré, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. *European Journal of Information Systems*, 27(5), 503-550. doi:[10.1080/0960085X.2017.1398880](https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880)
 
 ---
 
@@ -654,9 +658,9 @@ Alvesson, M., & Sandberg, J. (2011). Generating research questions through probl
 
 Gusenbauer, M., & Haddaway, N. R. (2021). What every researcher should know about searching–clarified concepts, search advice, and an agenda to improve finding in academia. *Research Synthesis Methods*, 12(2), 136-147. doi:[10.1002/jrsm.1457](https://onlinelibrary.wiley.com/doi/full/10.1002/jrsm.1457)
 
-Hiebl, M. R. (2023). Sample selection in systematic literature reviews of management research. *Organizational Research MNethods*, 26(2), 229-261. doi:[10.1177/109442812098685](https://journals.sagepub.com/doi/full/10.1177/1094428120986851)
+Hiebl, M. R. (2023). Sample selection in systematic literature reviews of management research. *Organizational Research Methods*, 26(2), 229-261. doi:[10.1177/109442812098685](https://journals.sagepub.com/doi/full/10.1177/1094428120986851)
 
-Knackstedt, R., & Winkelmann, A. (2006). Online-Literaturdatenbanken im Bereich der Wirtschaftsinformatik: Bereitstellung wissenschaftlicher Literatur und Analyse von Interaktionen der Wissensteilung. *Wirtschaftsinformatik*, 1(48), 47-59. doi:[10.1007/s11576-006-0006-1](https://link.springer.com/article/10.1007/s11576-006-0006-1)
+Knackstedt, R., & Winkelmann, A. (2006). Online literature databases in the field of information systems: Providing scientific literature and analyzing interactions of knowledge sharing. *Wirtschaftsinformatik*, 1(48), 47-59. doi:[10.1007/s11576-006-0006-1](https://link.springer.com/article/10.1007/s11576-006-0006-1)
 
 ---
 

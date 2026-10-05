@@ -264,6 +264,11 @@ Note: the tutorial was extracted to a separate page (see link: https://colrev-en
 
 ![bg right:40% width:350px](../assets/start-demo.png)
 
+<!--
+---
+
+TODO: search-query, revisit the search-query exercise (with linter messages)
+-->
 
 ---
 

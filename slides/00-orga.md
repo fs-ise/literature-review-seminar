@@ -119,6 +119,10 @@ Literature reviews can have a profound impact (e.g., Vial 2019 is cited 2,000 ti
 
 ![center width:900px](../assets/vial_scholar.png)
 
+<!--
+TODO : add Leidner, Hamari, ...
+-->
+
 ---
 
 # Why literature reviews are exciting (V)

@@ -57,7 +57,9 @@ PDF in VC - 25 min, take notes
 > 
 > **Solution**:
 > 
-> Highlight particular pages/figures/goals
+> - Ask students to mark the right choice in their tables.
+> - Ask students to stand up, gather around a table to discuss results (standing up/activating after long study exercise; sitting together makes it easier to share papers, highlight tables or figures).
+> - Highlight particular pages/figures/goals
 
 Maybe even include 1-2 papers that are not reviews?
 

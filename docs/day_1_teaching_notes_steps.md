@@ -86,6 +86,8 @@ Outlook: "We have waited too often that database provides improve search capabil
 
 ## Screening (reliability)
 
+TODO: add exercise notes here ("intersubjektiv nachvollziehbare Entscheidungen")
+
 Illustrate "Percentage agreement, Agreement by chance" with an example on the blackboard
 
 ![screening reliability](../assets/day_1_steps_screen_notes-screening-reliability.jpg)

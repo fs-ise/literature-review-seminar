@@ -8,7 +8,7 @@ search: true
 footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/01-goals.md' target='_blank'>🛠️</a>"
 ---
 
-# The Literature Review Seminar
+# The literature review seminar
 
 ## Goals and types of reviews
 
@@ -23,7 +23,7 @@ PollockHasanoffBarkeEtAl2025 identify over 1,000 terms (types of?) literature re
 
 It can be challenging to pick the right one.
 Not all are equally well respected in different fields.
-Positioning of the review type if often an issue in the peer review process.
+Positioning of the review type is often an issue in the peer review process.
 -->
 
 ---
@@ -38,19 +38,19 @@ Generally, literature reviews can take different forms, including
 - a part of a **Ph.D. thesis**
 - a **review protocol** (e.g., published in a conference or a registry)
 
-Our focus is on **standalone reviews**: an "independent paper whose purpose is to synthesize the extant literature in a field without collection of empirical data" (Templier and Paré 2018).
+Our focus is on **standalone reviews**: an "independent paper whose purpose is to synthesize the extant literature in a field without the collection of empirical data" (Templier and Paré 2018).
 
 ---
 
 ## Literature reviews in information systems
 
-- Early editorial by Webster and Watson (2002, MISQ, > 12.000 citations) with key suggestions
+- Early editorial by Webster and Watson (2002, MISQ, > 12,000 citations) with key suggestions
 
     - Rigorous search, including forward and backward searches
     - Concept matrix
     - Concept-centric writing instead of author-centric summaries
 
-- Establishment of the Theory and Review Department at MISQ, and similar initiatives at JAIS, and JSIS
+- Establishment of the Theory and Review Department at MISQ, and similar initiatives at JAIS and JSIS
 - Active discourse covering typological pluralism, systematicity, and transparency across top journals in Information Systems
 
 ![bg right:30% width:350px](../assets/WebsterWatson2002.png)
@@ -63,7 +63,7 @@ Building on Gregor (2006), Rowe (2014) distinguishes four goals of literature re
 
 - **Describing**: summarizing or classifying prior research on a phenomenon with little or no contribution to theory, i.e., without discussing underlying assumptions or rationales
 - **Understanding**: making sense of prior literature and new phenomena, working towards a conceptual understanding, and often involving an in-depth, broad, or critical discussion before drawing synthetic conclusions
-- **Explaining**: drawing on the literature to develop a conceptual framework, or theory with testable hypotheses, i.e., statements that explain real-world phenomena, and can be tested empirically
+- **Explaining**: drawing on the literature to develop a conceptual framework or theory with testable hypotheses, i.e., statements that explain real-world phenomena and can be tested empirically
 - **Theory testing**: extracting data from empirical studies to assess the aggregated evidence that has accumulated
 
 <br>
@@ -127,11 +127,19 @@ blockquote {
 
 ---
 
+## More detailed types of reviews
+
+- Leidner (2018) for four types of theoretical reviews
+- Skinner (2022) for qualitative literature reviews
+- Pollock (2025) for over 1,010 types of reviews (?)
+
+---
+
 ## Exercise: Select the review type
 
 Form groups according to the goals with regard to theory (describing, understanding, explaining, testing).
 
-![image](../assets/iconmonstr-pencil-15.svg) **Task**: Draft the research question, select a review type and explain why it fits.
+![image](../assets/iconmonstr-pencil-15.svg) **Task**: Draft the research question, select a review type, and explain why it fits.
 
 ![image](../assets/iconmonstr-idea-13.svg) **Discussion**: Share your draft and discuss whether there is a high fit.
 
@@ -189,7 +197,7 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
 ## Review protocols: Conceptions
 
 - A plan that is developed a priori and fixed. The protocol regulates researchers and requires them to follow an inflexible set of rules. Fixed protocols are more common in the health sciences and are often associated with theory-testing reviews like meta-analyses.
-- A “living plan”. The protocol is a living document that is used as a work log that records how the review project has evolved over time. Researchers may deviate from their original plan. Protocol development is thus iterative.
+- A “living plan.” The protocol is a living document that is used as a work log that records how the review project has evolved over time. Researchers may deviate from their original plan. Protocol development is thus iterative.
 
 ---
 
@@ -247,7 +255,6 @@ The [RightReview](https://rightreview.knowledgetranslation.net/) tool provides a
     - Intended publication plan (protocol publication/registration, strategy for reporting and publishing the full review article)
     - Other declarations (funding sources, etc.)
 
-
 ---
 
 # Where can we publish a review?
@@ -263,7 +270,7 @@ Conferences
 
 - International Conference for Information Systems (see [literature review track](https://icis2024.aisconferences.org/submissions/track-descriptions/))
 
-Journals which publish only review articles
+Journals that publish only review articles
 
 - Academy of Management Review ([link](https://journals.aom.org/journal/amr)), Academy of Marketing Science Review ([link](https://link.springer.com/journal/13162))
 - International Journal of Management Reviews ([link](https://onlinelibrary.wiley.com/journal/14682370)), Human Resource Development Review ([link](https://journals.sagepub.com/home/hrd))
@@ -324,7 +331,7 @@ Rowe, F. (2014). What literature review is not: diversity, boundaries and recomm
 
 Paré, G., Trudel, M. C., Jaana, M., & Kitsiou, S. (2015). Synthesizing information systems knowledge: A typology of literature reviews. *Information & Management*, 52(2), 183-199. doi:[10.1016/j.im.2014.08.008](https://www.sciencedirect.com/science/article/pii/S0378720614001116)
 
-Templier, M., & Pare, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. *European Journal of Information Systems*, 27(5), 503-550. doi:[10.1080/0960085X.2017.1398880](https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880)
+Templier, M., & Paré, G. (2018). Transparency in literature reviews: an assessment of reporting practices across review types and genres in top IS journals. *European Journal of Information Systems*, 27(5), 503-550. doi:[10.1080/0960085X.2017.1398880](https://www.tandfonline.com/doi/full/10.1080/0960085X.2017.1398880)
 
 ---
 
@@ -337,7 +344,7 @@ p {
 
 **Sample classified according to review types**
 
-Bélanger, F., & Crossler, R. E. (2011). Privacy in the digital age: a review of information privacy research in information systems. *MIS Quarterly*, 35(4) 1017-1041. doi:[10.2307/41409971](https://www.jstor.org/stable/41409971)
+Bélanger, F., & Crossler, R. E. (2011). Privacy in the digital age: a review of information privacy research in information systems. *MIS Quarterly*, 35(4), 1017-1041. doi:[10.2307/41409971](https://www.jstor.org/stable/41409971)
 
 King, W. R., & He, J. (2006). A meta-analysis of the technology acceptance model. *Information & Management*, 43(6), 740-755. doi:[10.1016/j.im.2006.05.003](https://www.sciencedirect.com/science/article/pii/S0378720606000528)
 

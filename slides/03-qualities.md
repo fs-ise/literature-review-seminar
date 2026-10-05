@@ -189,6 +189,13 @@ In pairs, discuss and refine your **literature review protocol**. Focus on the f
 ### 💬 Reminder
 > Be a **critical but constructive** reviewer. Maintain a positive tone and challenge methodological choice.
 
+<!--
+---
+
+TODO : discuss the coding of a paper according to PRISMA
+Highlight that it is useful to do that for the review protocol/paper (check whether you can see the type of review from the methods, code it according to PRISMA)
+-->
+
 ---
 
 <style scoped>

@@ -13,8 +13,9 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 Seminar, Master
 
 Prof. Dr. Gerit Wagner
-Fakultät Wirtschaftsinformatik und Angewandte Informatik
-Universität Bamberg
+Management Department
+Frankfurt School of Finance & Management
+Literature Review Seminar organized by FS ISE
 
 ---
 

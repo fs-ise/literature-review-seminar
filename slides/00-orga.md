@@ -13,8 +13,8 @@ footer: "<a href='https://github.com/digital-work-lab/literature-review-seminar/
 Seminar: Master | Ph.D.
 
 Prof. Dr. Gerit Wagner
-Information Systems and Applied Computer Sciences
-Otto-Friedrich-Universität Bamberg
+Management Department
+Frankfurt School of Finance & Management
 
 ![center width:150px](../assets/qr-literature-review-seminar.png)
 

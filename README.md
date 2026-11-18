@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)](https://fs-ise.github.io/literature-review-seminar/)
+[![Offered by: FS ISE](https://img.shields.io/badge/Offered%20by-FS%20ISE-blue)](https://fs-ise.github.io/literature-review-seminar/)
 [![DOI](https://zenodo.org/badge/741438884.svg)](https://doi.org/10.5281/zenodo.13893025)
 [![Spelling Check](https://github.com/fs-ise/literature-review-seminar/actions/workflows/spelling.yml/badge.svg)](https://github.com/fs-ise/literature-review-seminar/actions/workflows/spelling.yml)
 ![Links Fix](https://github.com/fs-ise/literature-review-seminar/actions/workflows/links_fix.yml/badge.svg)
@@ -15,7 +15,7 @@
 
 # The Literature Review Seminar
 
-Welcome! The Literature Review Seminar is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
+Welcome! The Literature Review Seminar is organized by Prof. Dr. Gerit Wagner and FS ISE.
 You can find more information on the following pages:
 
 - [Project page](https://fs-ise.github.io/literature-review-seminar/)

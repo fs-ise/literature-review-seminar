@@ -56,12 +56,13 @@ The seminar is offered in an open-topic format, meaning that participants select
 <br><br>
 
 **Gerit Wagner**  
-*Assistant Professor of Information Systems*  
-*Otto-Friedrich-Universität Bamberg*
+*Professor of Information Systems*<br>
+*Management Department, Frankfurt School of Finance & Management*<br>
+*Literature Review Seminar organized by FS ISE*
 
 <br style="clear:both">
 
-Gerit Wagner is an assistant professor at the University of Bamberg ([1](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}).
+Gerit Wagner serves as Professor of Information Systems in the Management Department at Frankfurt School of Finance & Management. Previously, he was Professor of Information Systems at Otto-Friedrich-Universität Bamberg ([biography](https://www.uni-bamberg.de/digital-work/team/prof-dr-gerit-wagner/){: target="_blank"}).
 Until 2023, he held a postdoctoral fellowship at HEC Montréal, working on various literature review topics with Guy Paré.
 During this time, Gerit served as a teaching assistant for the literature review seminar.
 The seminar is offered for Ph.D. students from HEC Montréal, McGill University, Concordia University, and Université de Montréal a Québec.
